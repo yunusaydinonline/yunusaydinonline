@@ -4,8 +4,7 @@
 [![Web](https://img.shields.io/badge/-Website-333333?style=flat&logo=google-chrome&logoColor=FFFFFF)](https://www.yunusaydin.net)
 ---
 ### Welcome to my GitHub page!
-I’m Yunus and I’m a **mobile developer** located in **Istanbul/Turkey**.  
-I'm new on **GitHub** and looking for open source projects to contribute to and people to collaborate with!
+I’m Yunus and I’m a **senior mobile developer** located in **Antalya/Turkey**.
 
 ### ✨ Things about me
 - 👨🏻‍💻 I’m currently working on [Unite Phone](https://apps.apple.com/tr/app/unite-phone/id1550933315) as mobile developer
@@ -17,21 +16,7 @@ I'm new on **GitHub** and looking for open source projects to contribute to and 
 - 📫 How to reach me: yunusaydinonline@gmail.com
 
 ### 🎖 Top Skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=f7df1d)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=4585ba)
-![CSharp](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=CSharp&logoColor=f4f3f6)
+React Native, ReactJS, JavaScript/TypeScript, Swift (iOS), Java (Android)
 
-### 🖥 Programming Languages, Frameworks & Libraries and Others
-![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=React&logoColor=04d1f6)
-![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift&logoColor=e74e36)
-![Objective C](https://img.shields.io/badge/-Objective_C-333333?style=flat&logo=Apple&logoColor=FFFFFF)
-![Java](https://img.shields.io/badge/-Java_for_Android-333333?style=flat&logo=Android&logoColor=3cd381)
-![VueJs](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js&logoColor=2e7052)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django&logoColor=2ca473)  
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=Tensorflow&logoColor=f7ad03)
-![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=Keras&logoColor=ca0404)
-![Node JS](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js&logoColor=7fc52a)
-![PyQt5](https://img.shields.io/badge/-PyQt5-333333?style=flat&logo=QT&logoColor=02c55a)
-![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=Plotly&logoColor=1498f7)
-![.NET](https://img.shields.io/badge/-.NET_Framework-333333?style=flat&logo=.NET&logoColor=309fd4)
-![GIT](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git&logoColor=e84f32)
+### 🖥  Others - Programming Languages, Frameworks & Libraries
+Objective C, HTML, CSS, Vue.js, Python, Django, FastAPI, NodeJS, NestJS, SQL Alchemy, Docker, Kubernetes, Git, Tensorflow, Keras, PyQt5/6, Plotly, C# .NET, Redis, AMQP, PHP
